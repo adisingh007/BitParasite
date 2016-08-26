@@ -11,8 +11,8 @@ Feel free to mail me for any suggestions and complaints. :D
 
 # Usage
 1. To run the Master program, navigate to `bin` directory from your terminal and type:
-
-	java -jar BitParasiteMaster.jar <IP address of slave>
+    
+        java -jar BitParasiteMaster.jar <IP address of slave>
 	
 2. To run the Slave program, just double click the `BitParasiteSlave.jar` file in `bin` directory.
 
