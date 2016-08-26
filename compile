@@ -1,0 +1,2 @@
+javac -d bin -sourcepath src src/com/adi/bitparasite/client/BitParasiteMaster.java -proc:none
+javac -d bin -sourcepath src src/com/adi/bitparasite/server/BitParasiteSlave.java -proc:none
