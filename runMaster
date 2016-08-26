@@ -1,0 +1,1 @@
+java -cp bin com.adi.bitparasite.client.BitParasiteMaster $1 8090
